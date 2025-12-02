@@ -4,7 +4,7 @@ description: >-
   all other requests
 ---
 
-# Authentication
+# Authentication Test
 
 ## Authenticate with AutoShares SSO/Auth0
 
